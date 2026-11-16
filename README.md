@@ -201,3 +201,27 @@ iptables -t nat -L -n | grep <service-ip>
 
 ---
 لایسنس پیشنهادی برای این ریپو: MIT (نام خودت را در فایل LICENSE بگذار).
+
+---
+
+## فورک‌های مرتبط (پروژه‌های ایرانی DevOps)
+
+فهرست فورک‌های من از پروژه‌های متن‌باز ایرانی/ایران‌محور. همه‌ی این پروژه‌ها متعلق به نویسندگان اصلی‌شان‌اند؛ لایسنس و کپی‌رایت اصلی در هر ریپو حفظ شده است.
+
+| فورک من | ریپوی اصلی | نویسنده/سازمان اصلی | موضوع | لایسنس |
+|---|---|---|---|---|
+| [smart-dns-ir](https://github.com/vaymen/smart-dns-ir) | [erfnzdeh/smart-dns-ir](https://github.com/erfnzdeh/smart-dns-ir) | erfnzdeh | بهینه‌ساز DNS برای سرورهای ایران | MIT |
+| [DockerImageSave](https://github.com/vaymen/DockerImageSave) | [jadolg/DockerImageSave](https://github.com/jadolg/DockerImageSave) | jadolg | دانلود image داکر به‌صورت فایل | MIT |
+| [NimBridgeIR](https://github.com/vaymen/NimBridgeIR) | [nimaro11dev/NimBridgeIR](https://github.com/nimaro11dev/NimBridgeIR) | nimaro11dev | کمک‌ابزار دسترسی Ubuntu در ایران | MIT |
+| [mysql-manager](https://github.com/vaymen/mysql-manager) | [hamravesh/mysql-manager](https://github.com/hamravesh/mysql-manager) | Hamravesh | MySQL High Availability | MIT |
+| [mysql-manager-haproxy](https://github.com/vaymen/mysql-manager-haproxy) | [hamravesh/mysql-manager-haproxy](https://github.com/hamravesh/mysql-manager-haproxy) | Hamravesh | HAProxy برای MySQL Manager | بدون لایسنس (با اجازه‌ی نویسنده) |
+| [dehydrated-arvancloud-hook](https://github.com/vaymen/dehydrated-arvancloud-hook) | [hamravesh/dehydrated-arvancloud-hook](https://github.com/hamravesh/dehydrated-arvancloud-hook) | Hamravesh | hook آروان‌کلاود برای dns-01 | MIT |
+| [Smart-DNS](https://github.com/vaymen/Smart-DNS) | [ChosoMeister/Smart-DNS](https://github.com/ChosoMeister/Smart-DNS) | ChosoMeister | DNS هوشمند با Nginx و Docker | MIT |
+| [darkubectl](https://github.com/vaymen/darkubectl) | [rahacloud/darkubectl](https://github.com/rahacloud/darkubectl) | rahacloud | CLI شبیه kubectl برای Darkube | GPL-3.0 |
+| [rahyab](https://github.com/vaymen/rahyab) | [Ali30mhi/rahyab](https://github.com/Ali30mhi/rahyab) | Ali30mhi | تست و تعویض mirror ها | MIT |
+| [docker](https://github.com/vaymen/docker) | [movtigroup/docker](https://github.com/movtigroup/docker) | movtigroup | راهنمای نصب Docker (فارسی) | MIT |
+| [mirro-docker](https://github.com/vaymen/mirro-docker) | [movtigroup/mirro-docker](https://github.com/movtigroup/mirro-docker) | movtigroup | پروکسی mirror داکر | MIT |
+| [abrbaran-iran-server-optimizer](https://github.com/vaymen/abrbaran-iran-server-optimizer) | [MrAbediii/abrbaran-iran-server-optimizer](https://github.com/MrAbediii/abrbaran-iran-server-optimizer) | MrAbediii | بهینه‌ساز سرور (DNS، Docker، BBR) | MIT |
+| [server-hardening-runbook](https://github.com/vaymen/server-hardening-runbook) | [alighaffari3000/server-hardening-runbook](https://github.com/alighaffari3000/server-hardening-runbook) | alighaffari3000 | runbook امن‌سازی سرور | MIT |
+| [apt-mirror-pro](https://github.com/vaymen/apt-mirror-pro) | [BTF-Kabir-2020/apt-mirror-pro](https://github.com/BTF-Kabir-2020/apt-mirror-pro) | BTF-Kabir-2020 | سوئیچ mirror ها برای APT | MIT |
+| [Mirava](https://github.com/vaymen/Mirava) | [MiravaOrg/Mirava](https://github.com/MiravaOrg/Mirava) | MiravaOrg | فهرست mirror های ایرانی | طبق ریپوی اصلی |
